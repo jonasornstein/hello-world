@@ -1,2 +1,9 @@
 # hello-world
-Just another repository
+
+Hi World,
+
+I am a software developer in development!
+
+Cheers,
+
+Jonas
